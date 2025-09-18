@@ -1,4 +1,5 @@
 import '@/app/ui/global.css';
+import { Analytics } from "@vercel/analytics/next"
 import { inter } from '@/app/ui/fonts';
  
 export default function RootLayout({
